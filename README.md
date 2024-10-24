@@ -1,4 +1,4 @@
-# webside-for-a-favorite-game
+# website-for-a-favorite-game
 Website for a personally selected topic
 
 This site was my final grade for a course 'HTML & CSS' in my second year. We had to make a website on a topic of your choice using HTML and CSS, no database or back-end needed.
